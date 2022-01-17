@@ -45,6 +45,7 @@ public class hw {
         else {
             System.out.println ("a < b");
         }
+        System.out.println(" Thank you");
 
     }
 }
